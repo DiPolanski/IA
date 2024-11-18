@@ -1,2 +1,2 @@
 # IA
-Repositória para Inteligência Artificial
+Repositório para Inteligência Artificial
